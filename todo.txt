@@ -1,0 +1,1 @@
+When clicking on Compute: Open window showcasing the results and then,  await the user input to save the data once satisfied. 
