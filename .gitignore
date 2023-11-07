@@ -1,0 +1,36 @@
+# Ignore editor files
+.vscode/
+.idea/
+
+# Ignore operating system and temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Ignore log and temporary files
+*.log
+*.log.*
+log/
+logs/
+
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore build and dependency directories
+node_modules/
+vendor/
+build/
+dist/
+
+# Ignore configuration files
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+.env.local
